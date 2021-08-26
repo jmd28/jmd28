@@ -1,10 +1,8 @@
 # 👋 jmd28
 ## ❓  about me
-I'm a third year undergraduate at the University of St Andrews studying computer science. 
+I'm a fourth year undergraduate at the University of St Andrews studying computer science. 
 
-I'm currently learning about complexity theory, database design and human-computer interaction.
-
-I'm also working on developing a distributed social media platform for my Junior Honours group project.
+I'm currently learning about logic and software verification, programming language design and implementation, signal processing (sound, image, video) and constraint programming.
 
 ## 🧰 tools, languages, frameworks
 
