@@ -2,7 +2,7 @@
 ## ❓  about me
 I'm a fourth year undergraduate at the University of St Andrews studying computer science. 
 
-I'm currently learning about logic and software verification, programming language design and implementation, signal processing (sound, image, video) and constraint programming.
+I'm currently learning about artificial intelligence, programming language design and implementation, signal processing (sound, image, video) and constraint programming.
 
 ## 🧰 tools, languages, frameworks
 
