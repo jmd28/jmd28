@@ -1,8 +1,7 @@
 # 👋 jmd28
 ## ❓  about me
-I'm a fourth year undergraduate at the University of St Andrews studying computer science. 
-
-I'm currently learning about artificial intelligence, programming language design and implementation, signal processing (sound, image, video) and constraint programming.
+I'm a final year undergraduate at the University of St Andrews studying computer science. 
+My dissertation involves playing with sound.
 
 ## 🧰 tools, languages, frameworks
 
