@@ -25,14 +25,6 @@ My dissertation involves playing with sound.
 
 ![](https://img.shields.io/badge/shell-zsh-informational?logo=zsh&style=flat-square&logoColor=fefdff&color=9753db)
 
-## 💭 a closing thought
-a man walked into a bar.
-<br>
-<br>
-<br>
-<br>
-<br>
-ouch.
 
 <!--
 **jmd28/jmd28** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
