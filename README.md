@@ -18,6 +18,7 @@ My dissertation involves playing with sound.
 ![](https://img.shields.io/badge/code-haskell-informational?logo=haskell&style=flat-square&logoColor=fefdff&color=9753db)
 ![](https://img.shields.io/badge/code-angular-informational?logo=angular&style=flat-square&logoColor=fefdff&color=9753db)
 ![](https://img.shields.io/badge/code-bash-informational?logo=bash&style=flat-square&logoColor=fefdff&color=9753db)
+![](https://img.shields.io/badge/code-rust-informational?logo=rust&style=flat-square&logoColor=fefdff&color=9753db)
 
 
 ![](https://img.shields.io/badge/tools-git-informational?logo=git&style=flat-square&logoColor=fefdff&color=9753db)
