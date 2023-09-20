@@ -1,7 +1,6 @@
-# 👋 jmd28
+# jmd28
 ## ❓  about me
-I'm a final year undergraduate at the University of St Andrews studying computer science. 
-My dissertation involves playing with sound.
+I am a recent MSci Computer Science Graduate from the University of St Andrews. I have a background in physics and maths (studied at undergraduate level) and a passion for creative coding, especially involving music. 
 
 ## 🧰 tools, languages, frameworks
 
@@ -12,6 +11,7 @@ My dissertation involves playing with sound.
 
 ![](https://img.shields.io/badge/code-kotlin-informational?logo=kotlin&style=flat-square&logoColor=fefdff&color=9753db)
 ![](https://img.shields.io/badge/code-c-informational?logo=c&style=flat-square&logoColor=fefdff&color=9753db)
+![](https://img.shields.io/badge/code-c++-informational?logo=cplusplus&style=flat-square&logoColor=fefdff&color=9753db)
 ![](https://img.shields.io/badge/code-python-informational?logo=python&style=flat-square&logoColor=fefdff&color=9753db)
 ![](https://img.shields.io/badge/code-go-informational?logo=go&style=flat-square&logoColor=fefdff&color=9753db)
 ![](https://img.shields.io/badge/code-java-informational?logo=java&style=flat-square&logoColor=fefdff&color=9753db)
